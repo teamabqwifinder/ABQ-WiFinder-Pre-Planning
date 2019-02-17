@@ -1,4 +1,4 @@
-[WireFrame]https://github.com/project-wifinder/ABQ-WiFinder-Pre-Planning/blob/master/Untitled%20Diagram-4.png)
+[WireFrame](Untitled Diagram-4.png)
 
 [Pre-plan Questions](https://docs.google.com/document/d/1mr8ka6Eie1mqVCCTtaQo3AsQcWsb4ddqSjArOm4hTF8/edit?usp=sharing)
 
