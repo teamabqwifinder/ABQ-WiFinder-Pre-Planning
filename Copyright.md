@@ -30,7 +30,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ## Deep Dive Coding Date Utilities
 
-Copyright 2019 Nicholas Bennett & Deep Dive Coding
+Copyright 2019 Felipe Cook, Faycel Beji, Josh DeLeon & Deep Dive Coding
 
 Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
@@ -40,7 +40,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ## Deep Dive Coding Android Utilities
 
-Copyright 2019 Nicholas Bennett & Deep Dive Coding
+Copyright 2019 Felipe Cook, Faycel Beji, Josh DeLeon & Deep Dive Coding
 
 Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
